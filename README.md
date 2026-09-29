@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Nikita Filin 👋
 
-<!--
-**click002/click002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Backend Developer** focused on web APIs, database-driven applications and backend services.
 
-Here are some ideas to get you started:
+I build web applications and REST APIs with Django, Django REST Framework and FastAPI. I work with PostgreSQL, automated testing, Docker and CI/CD, and have experience deploying applications with Nginx and Gunicorn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My projects include backend development from scratch, API design, database integration, authentication and permissions, testing, containerized deployment and team development.
+
+---
+
+## 🛠 Skills and technologies
+
+### Backend
+
+* Python
+* Django
+* Django REST Framework
+* FastAPI
+* Flask
+* REST API
+* Authentication & permissions
+* JWT
+* API documentation
+
+### Databases
+
+* PostgreSQL
+* SQLite
+* Django ORM
+
+### Testing
+
+* Pytest
+* Unittest
+
+### DevOps & deployment
+
+* Docker
+* Docker Compose
+* GitHub Actions
+* Nginx
+* Gunicorn
+* Linux / Bash
+* CI/CD
+
+### Development tools
+
+* Git
+* GitHub
+* Postman
+* VS Code
+
+### Frontend basics
+
+* HTML
+* CSS
+* JavaScript
+* React (basics)
+
+---
+
+## 🎯 What I'm looking for
+
+I'm looking for a **Python Backend Developer** role focused on Django, Django REST Framework or FastAPI.
+
+I'm especially interested in REST API development, PostgreSQL, backend architecture, testing, asynchronous services, Docker and deployed backend applications.
+
+---
+
+## 📫 Contacts
+
+🐙 **GitHub:** [@click002](https://github.com/click002)
+💬 **Telegram:** [@click002](https://t.me/click002)
