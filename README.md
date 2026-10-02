@@ -55,7 +55,7 @@ My projects include backend development from scratch, API design, database integ
 * HTML
 * CSS
 * JavaScript
-* React (basics)
+* React
 
 ---
 
